@@ -1,0 +1,5 @@
+from .band_list_create_view import BandListCreateView
+from .band_retrieve_update_delete import BandRetrieveUpdateView
+from .album_create_view import AlbumCreateView
+from .tag_create_view import TagCreateView
+from .band_member_view import BandMemberView
